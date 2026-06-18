@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/44upy576kascv.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"noticias","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"remedy-no-le-tiene-miedo-a-gta-vi-ni-a-otros-estrenos-y-no-planea-retrasar-control-resonant-a-pesar-de-reconocer-que-sus-juegos-deberian-vender-mas","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QcFRuAzAkGT4BNo7zeMj8"}

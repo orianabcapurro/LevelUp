@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/44upy576kascv.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"noticias","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"tim-cook-confirma-aumento-de-precios-de-iphone-y-mas-productos-de-apple-y-eso-es-un-mensaje-para-otras-industrias-como-la-de-los-videojuegos","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QcFRuAzAkGT4BNo7zeMj8"}
